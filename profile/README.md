@@ -1,116 +1,40 @@
-<div align="center">
+<div align="center"> <img src="assets/banner.svg" alt="UcanPrjk01 banner" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17132b,50:35235e,100:6842a6&height=210&section=header&text=UcanPrjkLabs&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="UcanPrjkLabs header"/>
+Open source projects: modules, apps, extensions, and tools.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C7A6FF&center=true&vCenter=true&width=720&lines=Android+%26+Open+Source+Projects;Magisk+Module+Experiments;Android+Customization+Enthusiasts;Learning%2C+Building%2C+Sharing" alt="Typing introduction"/>
+<a href="https://ucanprjk01.ucanprjk-id.workers.dev"><img src="https://img.shields.io/badge/Website-ucanprjk01.workers.dev-7c3aed?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"/></a> <a href="https://github.com/UcanPrjk01?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
-### Android customization, useful tools, and open-source experiments.
+<img src="https://img.shields.io/badge/Open_Source-always-8b5cf6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/badge/Free-to_use-8b5cf6?style=flat-square" alt="Free"/> <img src="https://img.shields.io/github/followers/UcanPrjk01?style=flat-square&color=6d28d9&label=followers" alt="Followers"/> </div> <img src="assets/h-about.svg" alt="About" height="64"/>
 
-<img src="./assets/chibi-08.png" width="150" alt="UcanPrjkLabs chibi mascot"/>
+UcanPrjk01 adalah tempat semua proyek saya dikumpulkan: dari module Android sampai aplikasi, extension, software, dan tools lainnya.
 
-**A little personality. A lot of curiosity. 💜**
+📦 Semua rilis ada di tab Releases masing-masing repository
+🌐 Daftar lengkap proyek ada di ucanprjk01.ucanprjk-id.workers.dev
+🚀 Terus bertambah, proyek baru akan muncul di sini
+<img src="assets/h-build.svg" alt="What I build" height="64"/>
+Category	What's inside
+🤖 Android Modules	Module untuk Magisk, KernelSU, dan APatch
+📱 Apps & APK	Aplikasi Android dan file APK
+🧩 Extensions	Extension browser dan add-on
+💻 Software & Tools	Software desktop, script, dan utilitas
+🌐 Websites & Docs	Website, dokumentasi, dan template
+<img src="assets/h-projects.svg" alt="Projects" height="64"/>
+Project	Category	Description	Link
+Ucan Disable Thermal Universal	🤖 Android Module	Menonaktifkan thermal throttling di berbagai perangkat	Releases
+UcanPrjk01 Website	🌐 Website	Portofolio dan hub proyek open source	Visit
 
-[![TikTok](https://img.shields.io/badge/TikTok-ucanprjk-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ucanprjk)
-[![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+aZ-YYIkyBL80ZDZl)
-[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucanprjk.id@gmail.com)
+Proyek baru akan ditambahkan ke tabel ini setiap kali dirilis.
 
-</div>
+<img src="assets/h-stack.svg" alt="Tech stack" height="64"/> <p> <img src="https://img.shields.io/badge/Shell-1f1235?style=for-the-badge&logo=gnubash&logoColor=a78bfa" alt="Shell"/> <img src="https://img.shields.io/badge/Android-1f1235?style=for-the-badge&logo=android&logoColor=a78bfa" alt="Android"/> <img src="https://img.shields.io/badge/Linux-1f1235?style=for-the-badge&logo=linux&logoColor=a78bfa" alt="Linux"/> <img src="https://img.shields.io/badge/HTML5-1f1235?style=for-the-badge&logo=html5&logoColor=a78bfa" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1f1235?style=for-the-badge&logo=css3&logoColor=a78bfa" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-1f1235?style=for-the-badge&logo=javascript&logoColor=a78bfa" alt="JavaScript"/> <img src="https://img.shields.io/badge/Git-1f1235?style=for-the-badge&logo=git&logoColor=a78bfa" alt="Git"/> </p> <img src="assets/h-stats.svg" alt="GitHub stats" height="64"/> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=UcanPrjk01&show_icons=true&hide_border=true&bg_color=0a0612&title_color=a78bfa&icon_color=8b5cf6&text_color=ddd6fe" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcanPrjk01&layout=compact&hide_border=true&bg_color=0a0612&title_color=a78bfa&text_color=ddd6fe" alt="Top languages"/> </p> <img src="assets/h-support.svg" alt="Support the grind" height="64"/>
 
----
+Proyek saya gratis dan open source. Kalau kamu terbantu dan mau traktir kopi, dukungan sekecil apa pun bikin proyek ini terus jalan. 💜
 
-## 👋 About UcanPrjkLabs
+<p> <a href="https://ko-fi.com/ucanprjk01"><img src="assets/donate-kofi.svg" alt="Support on Ko-fi" height="64"/></a> <a href="https://www.buymeacoffee.com/ucanprjk01"><img src="assets/donate-bmc.svg" alt="Buy me a coffee" height="64"/></a> <a href="https://saweria.co/ucanprjk01"><img src="assets/donate-saweria.svg" alt="Donasi via Saweria" height="64"/></a> </p> <img src="assets/h-contact.svg" alt="Contact" height="64"/>
+🌐 Website: ucanprjk01.ucanprjk-id.workers.dev
+💬 Telegram: isi username kamu
+📧 Email: isi email kamu
+<div align="center"> <img src="assets/mascot.png" alt="UcanPrjk01 mascot" width="160"/>
 
-**UcanPrjkLabs** is an independent project space focused on Android customization, device tools, and open-source experiments.
-
-- 📱 Exploring Android, AOSP, and custom ROM ecosystems.
-- 🧩 Experimenting with Magisk modules and root-related utilities.
-- ⚙️ Learning shell scripting and system-level customization.
-- 🛠️ Building practical tools, documentation, and experiments.
-- 🌱 Learning continuously and sharing useful work with the community.
-
-> Built with curiosity, improved through experimentation, and shared with the community.
-
-## 🧭 Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Customization-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Magisk-Modules-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AOSP-Exploration-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Community-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-## 🚀 Projects
-
-<div align="center">
-
-[![Explore repositories](https://img.shields.io/badge/Explore-Organization%20Repositories-6842A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UcanPrjkLabs)
-
-</div>
-
-<!-- When your repositories are ready, add GitHub pinned-repository cards here. -->
-
-## 🐾 Meet the Chibi Mascot
-
-Our purple-haired, red-eyed chibi mascot has a few moods for every developer moment.
-
-<p align="center">
-  <img src="./assets/chibi-01.png" width="140" alt="Bored chibi"/>
-  <img src="./assets/chibi-02.png" width="140" alt="Confused chibi"/>
-  <img src="./assets/chibi-03.png" width="140" alt="Angry chibi"/>
-  <img src="./assets/chibi-04.png" width="140" alt="Shy chibi"/>
-</p>
-<p align="center">
-  <img src="./assets/chibi-05.png" width="140" alt="Cool chibi"/>
-  <img src="./assets/chibi-06.png" width="140" alt="Sleepy chibi"/>
-  <img src="./assets/chibi-07.png" width="140" alt="Peeking chibi"/>
-  <img src="./assets/chibi-08.png" width="140" alt="Lovestruck chibi"/>
-</p>
-
-[See the complete 16-sticker sheet](./assets/chibi-sticker-sheet.png)
-
-## 📈 Development Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UcanPrjkLabs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UcanPrjkLabs&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
-</p>
-
-> Activity widgets depend on external services and may not display every organization contribution.
-
-## 🐍 Contribution Snake
-
-After configuring a GitHub Actions workflow to publish the generated snake SVG to an `output` branch, you can embed it here:
-
-```md
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UcanPrjkLabs/YOUR_REPOSITORY/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
-</p>
-```
-
-## ☕ Support the Work
-
-<p align="center">
-  <a href="https://ko-fi.com/H2H61M46VE"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi"/></a>
-  <a href="https://saweria.co/ucan01"><img src="https://img.shields.io/badge/Saweria-Support%20the%20work-orange?style=for-the-badge" alt="Support on Saweria"/></a>
-</p>
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UcanPrjkLabs&style=for-the-badge&color=6842A6&label=VISITORS" alt="Visitor counter"/>
-</p>
-
----
-
-<div align="center">
-
-### Thanks for stopping by! 💜
-
-**Keep exploring. Keep experimenting. Keep building.**
-
-<sub>UcanPrjkLabs · Independent Android & Open Source Project Lab</sub>
+<sub>Made with 💜 by UcanPrjk01</sub>
 
 </div>
