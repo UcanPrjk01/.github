@@ -1,40 +1,149 @@
-<div align="center"> <img src="assets/banner.svg" alt="UcanPrjk01 banner" width="100%"/>
 
-Open source projects: modules, apps, extensions, and tools.
+<div align="center">
 
-<a href="https://ucanprjk01.ucanprjk-id.workers.dev"><img src="https://img.shields.io/badge/Website-ucanprjk01.workers.dev-7c3aed?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"/></a> <a href="https://github.com/UcanPrjk01?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<img src="assets/banner.svg" alt="UcanPrjk01 Banner" width="90%"/>
 
-<img src="https://img.shields.io/badge/Open_Source-always-8b5cf6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/badge/Free-to_use-8b5cf6?style=flat-square" alt="Free"/> <img src="https://img.shields.io/github/followers/UcanPrjk01?style=flat-square&color=6d28d9&label=followers" alt="Followers"/> </div> <img src="assets/h-about.svg" alt="About" height="64"/>
+### BUILDING. EXPERIMENTING. SHARING.
+An independent collection of open-source projects, tools, and experiments.
+<p>
+  <a href="https://ucanprjk01.ucanprjk-id.workers.dev"><img src="https://img.shields.io/badge/☁_WEBSITE-7c3aed?style=for-the-badge" alt="Website"/></a>
+  <a href="https://github.com/UcanPrjk01?tab=repositories"><img src="https://img.shields.io/badge/◉_REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://t.me/+pkIzL2szeFZiNjk1"><img src="https://img.shields.io/badge/✈_TELEGRAM-16c784?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
-UcanPrjk01 adalah tempat semua proyek saya dikumpulkan: dari module Android sampai aplikasi, extension, software, dan tools lainnya.
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-7c3aed?style=flat-square" alt="Open Source"/>
+<img src="https://img.shields.io/badge/FREE%20TO%20USE-16c784?style=flat-square" alt="Free to Use"/>
+<img src="https://img.shields.io/github/followers/UcanPrjk01?style=flat-square&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
 
-📦 Semua rilis ada di tab Releases masing-masing repository
-🌐 Daftar lengkap proyek ada di ucanprjk01.ucanprjk-id.workers.dev
-🚀 Terus bertambah, proyek baru akan muncul di sini
-<img src="assets/h-build.svg" alt="What I build" height="64"/>
-Category	What's inside
-🤖 Android Modules	Module untuk Magisk, KernelSU, dan APatch
-📱 Apps & APK	Aplikasi Android dan file APK
-🧩 Extensions	Extension browser dan add-on
-💻 Software & Tools	Software desktop, script, dan utilitas
-🌐 Websites & Docs	Website, dokumentasi, dan template
-<img src="assets/h-projects.svg" alt="Projects" height="64"/>
-Project	Category	Description	Link
-Ucan Disable Thermal Universal	🤖 Android Module	Menonaktifkan thermal throttling di berbagai perangkat	Releases
-UcanPrjk01 Website	🌐 Website	Portofolio dan hub proyek open source	Visit
+</div>
 
-Proyek baru akan ditambahkan ke tabel ini setiap kali dirilis.
+---
 
-<img src="assets/h-stack.svg" alt="Tech stack" height="64"/> <p> <img src="https://img.shields.io/badge/Shell-1f1235?style=for-the-badge&logo=gnubash&logoColor=a78bfa" alt="Shell"/> <img src="https://img.shields.io/badge/Android-1f1235?style=for-the-badge&logo=android&logoColor=a78bfa" alt="Android"/> <img src="https://img.shields.io/badge/Linux-1f1235?style=for-the-badge&logo=linux&logoColor=a78bfa" alt="Linux"/> <img src="https://img.shields.io/badge/HTML5-1f1235?style=for-the-badge&logo=html5&logoColor=a78bfa" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1f1235?style=for-the-badge&logo=css3&logoColor=a78bfa" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-1f1235?style=for-the-badge&logo=javascript&logoColor=a78bfa" alt="JavaScript"/> <img src="https://img.shields.io/badge/Git-1f1235?style=for-the-badge&logo=git&logoColor=a78bfa" alt="Git"/> </p> <img src="assets/h-stats.svg" alt="GitHub stats" height="64"/> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=UcanPrjk01&show_icons=true&hide_border=true&bg_color=0a0612&title_color=a78bfa&icon_color=8b5cf6&text_color=ddd6fe" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcanPrjk01&layout=compact&hide_border=true&bg_color=0a0612&title_color=a78bfa&text_color=ddd6fe" alt="Top languages"/> </p> <img src="assets/h-support.svg" alt="Support the grind" height="64"/>
+<div align="center">
+<img src="assets/h-about.svg" alt="About" width="130"/>
+</div>
 
-Proyek saya gratis dan open source. Kalau kamu terbantu dan mau traktir kopi, dukungan sekecil apa pun bikin proyek ini terus jalan. 💜
+<div align="center">
 
-<p> <a href="https://ko-fi.com/ucanprjk01"><img src="assets/donate-kofi.svg" alt="Support on Ko-fi" height="64"/></a> <a href="https://www.buymeacoffee.com/ucanprjk01"><img src="assets/donate-bmc.svg" alt="Buy me a coffee" height="64"/></a> <a href="https://saweria.co/ucanprjk01"><img src="assets/donate-saweria.svg" alt="Donasi via Saweria" height="64"/></a> </p> <img src="assets/h-contact.svg" alt="Contact" height="64"/>
-🌐 Website: ucanprjk01.ucanprjk-id.workers.dev
-💬 Telegram: isi username kamu
-📧 Email: isi email kamu
-<div align="center"> <img src="assets/mascot.png" alt="UcanPrjk01 mascot" width="160"/>
+**UcanPrjk01** is an independent open-source project collection focused on Android customization, system modifications, useful tools, and experimental development.
 
-<sub>Made with 💜 by UcanPrjk01</sub>
+Built with curiosity.
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-build.svg" alt="What I Build" width="150"/>
+</div>
+
+<div align="center">
+
+| Category | Description |
+|:---:|:---|
+| **Android** | Modules, tweaks, and system modifications |
+| **Tools** | Small utilities and practical tools |
+| **Web** | Websites and web-based projects |
+| **Experiments** | Ideas, prototypes, and ongoing development |
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-projects.svg" alt="Projects" width="120"/>
+</div>
+
+<div align="center">
+
+| Project | Description |
+|:---:|:---|
+| **Ucan Disable Thermal Universal** | Android module for thermal management modifications |
+| **UcanPrjk01 Website** | Personal website and project hub |
+
+<a href="https://github.com/UcanPrjk01?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-stack.svg" alt="Tech Stack" width="140"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-stats.svg" alt="GitHub Stats" width="180"/>
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=UcanPrjk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UcanPrjk&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-support.svg" alt="Support" width="180"/>
+</div>
+
+<div align="center">
+
+If you find my projects useful, consider supporting their development. Every contribution helps keep things moving.
+
+<a href="https://ko-fi.com/ucanprjk01">
+  <img src="assets/donate-kofi.svg" alt="Support on Ko-fi" height="42"/>
+</a>
+<a href="https://www.buymeacoffee.com/ucanprjk01">
+  <img src="assets/donate-bmc.svg" alt="Buy Me a Coffee" height="42"/>
+</a>
+<a href="https://saweria.co/ucanprjk01">
+  <img src="assets/donate-saweria.svg" alt="Support on Saweria" height="42"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="assets/h-contact.svg" alt="Contact" width="130"/>
+</div>
+
+<div align="center">
+
+<a href="mailto:ucanprjk01@duck.com"><img src="https://img.shields.io/badge/EMAIL-ucanprjk01%40duck.com-7c3aed?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/+pkIzL2szeFZiNjk1"><img src="https://img.shields.io/badge/TELEGRAM-JOIN_CHANNEL-16c784?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://ucanprjk01.ucanprjk-id.workers.dev"><img src="https://img.shields.io/badge/WEBSITE-VISIT-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/mascot.png" alt="UcanPrjk01 Mascot" width="130"/>
+
+**UcanPrjk01**
+
+*Made with curiosity. Built with passion. Shared with everyone.*
+
+<sub>© UcanPrjk01 — Open-source projects and experiments.</sub>
 
 </div>
